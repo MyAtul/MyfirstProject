@@ -1,3 +1,3 @@
 # MyfirstProject
-A absic project 
+A basic project 
 Author- Atul Yadav
